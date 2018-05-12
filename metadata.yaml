@@ -1,0 +1,32 @@
+_repo: The-Lost-PibrochAnd-other-Sheiling-Stories_43729
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Munro, Neil
+    alias: Foulis, Hugh
+    birthdate: 1864
+    deathdate: 1930
+    gutenberg_agent_id: '9862'
+    url: http://www.gutenberg.org/2009/agents/9862
+description: ''
+gutenberg_issued: '2013-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43729'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PR'
+- !lcsh 'Highlands (Scotland) -- Fiction'
+tableOfContents: The Lost Pibroch -- Red hand -- The secret of the heather-ale --
+  Boboon's children -- The Fell Sergeant -- Black Murdo -- The sea-fairy of French
+  Foreland -- Shudderman soldier -- War -- A fine pair of shoes -- Castle Dark --
+  A Gaelic glossary.
+title: The Lost Pibroch, and other Sheiling Stories
+url: http://www.gutenberg.org/ebooks/43729
